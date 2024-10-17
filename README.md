@@ -8,4 +8,4 @@ JavaScript module to make object reactive!
 
 ## Usage
 
-![image](https://github.com/user-attachments/assets/633807e5-f73f-4926-977c-9a386da93851)
+![image](https://github.com/user-attachments/assets/2b0fde7f-70f5-4708-ad1d-b3aeb2ef707f)
